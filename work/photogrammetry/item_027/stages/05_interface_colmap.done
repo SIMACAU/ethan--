@@ -1,0 +1,15 @@
+{
+  "name": "05_interface_colmap",
+  "elapsed_seconds": 0.112,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\openmvs\\InterfaceCOLMAP.exe",
+    "--working-folder",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs",
+    "--input-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\dense",
+    "--image-folder",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\dense\\images",
+    "--output-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs\\scene.mvs"
+  ]
+}

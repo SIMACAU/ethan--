@@ -1,0 +1,23 @@
+{
+  "name": "06_densify",
+  "elapsed_seconds": 69.538,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\openmvs\\DensifyPointCloud.exe",
+    "--working-folder",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_022\\mvs",
+    "--input-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_022\\mvs\\scene.mvs",
+    "--output-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_022\\mvs\\scene_dense.mvs",
+    "--resolution-level",
+    "2",
+    "--number-views",
+    "4",
+    "--cuda-device",
+    "-2",
+    "--mask-path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_022\\mvs\\masks",
+    "--ignore-mask-label",
+    "0"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "09_texture",
+  "elapsed_seconds": 14.983,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\openmvs\\TextureMesh.exe",
+    "--working-folder",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs",
+    "--input-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs\\scene_dense.mvs",
+    "--mesh-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs\\scene_mesh.ply",
+    "--output-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\mvs\\scene_textured.mvs",
+    "--export-type",
+    "obj"
+  ]
+}

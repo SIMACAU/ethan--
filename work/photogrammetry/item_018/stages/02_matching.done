@@ -1,0 +1,20 @@
+{
+  "name": "02_matching",
+  "elapsed_seconds": 1.837,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\colmap\\bin\\colmap.exe",
+    "exhaustive_matcher",
+    "--database_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_018\\database.db",
+    "--FeatureMatching.type",
+    "SIFT_BRUTEFORCE",
+    "--FeatureMatching.use_gpu",
+    "0",
+    "--FeatureMatching.guided_matching",
+    "1",
+    "--FeatureMatching.max_num_matches",
+    "16384",
+    "--FeatureMatching.num_threads",
+    "8"
+  ]
+}

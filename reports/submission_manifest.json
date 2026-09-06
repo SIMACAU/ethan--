@@ -1,0 +1,14 @@
+{
+  "archive": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission_pack40_mouse.zip",
+  "archive_bytes": 3401453,
+  "built": [
+    {
+      "item_id": "item_019",
+      "label": "鼠标",
+      "usd": "submission/item_019/item_019.usd",
+      "bytes": 49226,
+      "used_photogrammetry": false
+    }
+  ],
+  "failures": []
+}

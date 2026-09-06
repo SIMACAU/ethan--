@@ -1,0 +1,8 @@
+item_003/item_003_储物边柜外观视频.MOV
+item_006/item_006_L形靠背沙发外观视频.MOV
+item_008/item_008_脚凳外观视频.MOV
+item_020/item_020_显示器外观视频.MOV
+item_034/item_034_办公室环境交互视频.MOV
+item_034/item_034_办公室环境外观视频.MOV
+tools/colmap-x64-windows-cuda.zip
+tools/colmap/bin/onnxruntime_providers_cuda.dll

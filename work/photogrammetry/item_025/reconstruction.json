@@ -1,0 +1,9 @@
+{
+  "item_id": "item_025",
+  "input_frames": 100,
+  "masks_used": true,
+  "sparse_model": "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\sparse\\1",
+  "dense_cloud": "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\mvs\\scene_dense.ply",
+  "mesh": "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\mvs\\scene_mesh.ply",
+  "textured_glb": "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\mvs\\scene_textured.glb"
+}

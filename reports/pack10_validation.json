@@ -1,0 +1,484 @@
+{
+  "submission_root": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission",
+  "expected_count": 34,
+  "found_count": 34,
+  "package_errors": [],
+  "stages": [
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_001\\item_001.usd",
+      "default_prim": "/item_001",
+      "mesh_count": 8,
+      "material_count": 2,
+      "collision_count": 8,
+      "rigid_body_count": 3,
+      "dimensions_m": [
+        0.800000011920929,
+        0.39800000190734863,
+        1.1799999475479126
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_002\\item_002.usd",
+      "default_prim": "/item_002",
+      "mesh_count": 12,
+      "material_count": 2,
+      "collision_count": 12,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.36000001430511475,
+        0.24499999452382326,
+        0.22219999879598618
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_003\\item_003.usd",
+      "default_prim": "/item_003",
+      "mesh_count": 12,
+      "material_count": 3,
+      "collision_count": 12,
+      "rigid_body_count": 5,
+      "dimensions_m": [
+        1.5809999704360962,
+        0.41600000858306885,
+        0.690400006249547
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_004\\item_004.usd",
+      "default_prim": "/item_004",
+      "mesh_count": 16,
+      "material_count": 2,
+      "collision_count": 16,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.5932672116905451,
+        0.5642306581139565,
+        0.8711999952793121
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_005\\item_005.usd",
+      "default_prim": "/item_005",
+      "mesh_count": 6,
+      "material_count": 2,
+      "collision_count": 6,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.3199999928474426,
+        0.3199999928474426,
+        1.5199999660253525
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_006\\item_006.usd",
+      "default_prim": "/item_006",
+      "mesh_count": 8,
+      "material_count": 2,
+      "collision_count": 8,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        1.7760000228881836,
+        0.697199996560812,
+        0.7599999904632568
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_007\\item_007.usd",
+      "default_prim": "/item_007",
+      "mesh_count": 6,
+      "material_count": 2,
+      "collision_count": 6,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.671999990940094,
+        0.5912000089883804,
+        0.75
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_008\\item_008.usd",
+      "default_prim": "/item_008",
+      "mesh_count": 5,
+      "material_count": 2,
+      "collision_count": 5,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.6200000047683716,
+        0.46000000834465027,
+        0.39100000262260437
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_009\\item_009.usd",
+      "default_prim": "/item_009",
+      "mesh_count": 5,
+      "material_count": 2,
+      "collision_count": 5,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.550000011920929,
+        0.4000000059604645,
+        0.46000000461935997
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_010\\item_010.usd",
+      "default_prim": "/item_010",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.19359999895095825,
+        0.030799999833106995,
+        0.02199999988079071
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_011\\item_011.usd",
+      "default_prim": "/item_011",
+      "mesh_count": 4,
+      "material_count": 2,
+      "collision_count": 4,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.41999998688697815,
+        0.3770000054500997,
+        0.5199999809265137
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_012\\item_012.usd",
+      "default_prim": "/item_012",
+      "mesh_count": 13,
+      "material_count": 2,
+      "collision_count": 13,
+      "rigid_body_count": 7,
+      "dimensions_m": [
+        0.8999999761581421,
+        0.44999998807907104,
+        1.0499999523162842
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_013\\item_013.usd",
+      "default_prim": "/item_013",
+      "mesh_count": 29,
+      "material_count": 5,
+      "collision_count": 29,
+      "rigid_body_count": 13,
+      "dimensions_m": [
+        0.3059999942779541,
+        0.2079000025987625,
+        0.21000000089406967
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_014\\item_014.usd",
+      "default_prim": "/item_014",
+      "mesh_count": 18,
+      "material_count": 5,
+      "collision_count": 18,
+      "rigid_body_count": 8,
+      "dimensions_m": [
+        0.48000001907348633,
+        0.4090000046417117,
+        0.30000001192092896
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_015\\item_015.usd",
+      "default_prim": "/item_015",
+      "mesh_count": 4,
+      "material_count": 2,
+      "collision_count": 4,
+      "rigid_body_count": 3,
+      "dimensions_m": [
+        0.25760000944137573,
+        0.2674000123515725,
+        0.2291999994777143
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_016\\item_016.usd",
+      "default_prim": "/item_016",
+      "mesh_count": 7,
+      "material_count": 2,
+      "collision_count": 7,
+      "rigid_body_count": 4,
+      "dimensions_m": [
+        0.2800000011920929,
+        0.32050000317394733,
+        0.33319999277591705
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_017\\item_017.usd",
+      "default_prim": "/item_017",
+      "mesh_count": 5,
+      "material_count": 2,
+      "collision_count": 5,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.22772438824176788,
+        0.17599999904632568,
+        0.2113999966531992
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_018\\item_018.usd",
+      "default_prim": "/item_018",
+      "mesh_count": 5,
+      "material_count": 4,
+      "collision_count": 5,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.3199999928474426,
+        0.2199999988079071,
+        0.028500000713393092
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_019\\item_019.usd",
+      "default_prim": "/item_019",
+      "mesh_count": 4,
+      "material_count": 2,
+      "collision_count": 4,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.09920000165998921,
+        0.06400000303983688,
+        0.03660000200346114
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_020\\item_020.usd",
+      "default_prim": "/item_020",
+      "mesh_count": 6,
+      "material_count": 3,
+      "collision_count": 6,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.699999988079071,
+        0.23303362727165222,
+        0.4502000082284212
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_021\\item_021.usd",
+      "default_prim": "/item_021",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.21800000593066216,
+        0.07999999821186066,
+        0.25999999046325684
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_022\\item_022.usd",
+      "default_prim": "/item_022",
+      "mesh_count": 13,
+      "material_count": 2,
+      "collision_count": 13,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.36000001430511475,
+        0.18000000715255737,
+        0.25999999046325684
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_023\\item_023.usd",
+      "default_prim": "/item_023",
+      "mesh_count": 4,
+      "material_count": 2,
+      "collision_count": 4,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.11720000952482224,
+        0.09000001847743988,
+        0.10049999898672102
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_024\\item_024.usd",
+      "default_prim": "/item_024",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.24000000953674316,
+        0.24000000953674316,
+        0.2820000108331442
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_025\\item_025.usd",
+      "default_prim": "/item_025",
+      "mesh_count": 2,
+      "material_count": 1,
+      "collision_count": 2,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.18000000715255737,
+        0.07999999821186066,
+        0.2636000094935298
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_026\\item_026.usd",
+      "default_prim": "/item_026",
+      "mesh_count": 2,
+      "material_count": 2,
+      "collision_count": 2,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.08160000294446945,
+        0.08160000294446945,
+        0.2692000064998865
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_027\\item_027.usd",
+      "default_prim": "/item_027",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.2199999988079071,
+        0.10300000186543912,
+        0.149999993853271
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_028\\item_028.usd",
+      "default_prim": "/item_028",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.31620000302791595,
+        0.12150000035762787,
+        0.04500000178813934
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_029\\item_029.usd",
+      "default_prim": "/item_029",
+      "mesh_count": 1,
+      "material_count": 1,
+      "collision_count": 1,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.1599999964237213,
+        0.1599999964237213,
+        0.07000000029802322
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_030\\item_030.usd",
+      "default_prim": "/item_030",
+      "mesh_count": 3,
+      "material_count": 1,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.18719999492168427,
+        0.18080000393092632,
+        0.02800000086426735
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_031\\item_031.usd",
+      "default_prim": "/item_031",
+      "mesh_count": 3,
+      "material_count": 2,
+      "collision_count": 3,
+      "rigid_body_count": 1,
+      "dimensions_m": [
+        0.3724000006914139,
+        0.2199999988079071,
+        0.02160000056028366
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_032\\item_032.usd",
+      "default_prim": "/item_032",
+      "mesh_count": 5,
+      "material_count": 4,
+      "collision_count": 5,
+      "rigid_body_count": 2,
+      "dimensions_m": [
+        0.4660000093281269,
+        0.3399999439716339,
+        0.14279999704360957
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_033\\item_033.usd",
+      "default_prim": "/item_033",
+      "mesh_count": 31,
+      "material_count": 5,
+      "collision_count": 31,
+      "rigid_body_count": 5,
+      "dimensions_m": [
+        4.259999807924032,
+        3.2300000470131636,
+        2.5999999325722456
+      ],
+      "errors": []
+    },
+    {
+      "path": "C:\\Users\\MACAU\\Desktop\\天池\\output\\submission\\submission\\item_034\\item_034.usd",
+      "default_prim": "/item_034",
+      "mesh_count": 32,
+      "material_count": 5,
+      "collision_count": 32,
+      "rigid_body_count": 5,
+      "dimensions_m": [
+        6.029999999329448,
+        4.529999999329448,
+        2.799999952316284
+      ],
+      "errors": []
+    }
+  ]
+}

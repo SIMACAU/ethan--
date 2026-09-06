@@ -1,0 +1,240 @@
+{
+  "item_001": {
+    "item_id": "item_001",
+    "object_label": "储物柜",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_002": {
+    "item_id": "item_002",
+    "object_label": "果汁箱+果汁",
+    "video_count": 2,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_003": {
+    "item_id": "item_003",
+    "object_label": "储物边柜",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_004": {
+    "item_id": "item_004",
+    "object_label": "转椅",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_005": {
+    "item_id": "item_005",
+    "object_label": "落地灯",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_006": {
+    "item_id": "item_006",
+    "object_label": "L形靠背沙发",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_007": {
+    "item_id": "item_007",
+    "object_label": "单人椅",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_008": {
+    "item_id": "item_008",
+    "object_label": "脚凳",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_009": {
+    "item_id": "item_009",
+    "object_label": "边桌",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_010": {
+    "item_id": "item_010",
+    "object_label": "水果刀",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_011": {
+    "item_id": "item_011",
+    "object_label": "床头桌",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_012": {
+    "item_id": "item_012",
+    "object_label": "六斗抽屉柜",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_013": {
+    "item_id": "item_013",
+    "object_label": "面包机",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_014": {
+    "item_id": "item_014",
+    "object_label": "微波炉",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_015": {
+    "item_id": "item_015",
+    "object_label": "电饭煲",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_016": {
+    "item_id": "item_016",
+    "object_label": "空气炸锅",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_017": {
+    "item_id": "item_017",
+    "object_label": "电热水壶",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_018": {
+    "item_id": "item_018",
+    "object_label": "笔记本电脑（thinkpad）",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_019": {
+    "item_id": "item_019",
+    "object_label": "鼠标",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_020": {
+    "item_id": "item_020",
+    "object_label": "显示器",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_021": {
+    "item_id": "item_021",
+    "object_label": "抽纸",
+    "video_count": 2,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_022": {
+    "item_id": "item_022",
+    "object_label": "卷纸",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_023": {
+    "item_id": "item_023",
+    "object_label": "马克杯",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_024": {
+    "item_id": "item_024",
+    "object_label": "垃圾桶",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_025": {
+    "item_id": "item_025",
+    "object_label": "薯片袋",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_026": {
+    "item_id": "item_026",
+    "object_label": "罐装薯片",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_027": {
+    "item_id": "item_027",
+    "object_label": "酸菜鱼调味料",
+    "video_count": 2,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_028": {
+    "item_id": "item_028",
+    "object_label": "锅铲",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_029": {
+    "item_id": "item_029",
+    "object_label": "木碗",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_030": {
+    "item_id": "item_030",
+    "object_label": "木质兔子盘子",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_031": {
+    "item_id": "item_031",
+    "object_label": "砧板",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_032": {
+    "item_id": "item_032",
+    "object_label": "炒锅",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_033": {
+    "item_id": "item_033",
+    "object_label": "茶水间内部环境",
+    "video_count": 2,
+    "frame_count": 100,
+    "max_width": 1280
+  },
+  "item_034": {
+    "item_id": "item_034",
+    "object_label": "办公室环境",
+    "video_count": 1,
+    "frame_count": 100,
+    "max_width": 1280
+  }
+}

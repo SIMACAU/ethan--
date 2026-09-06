@@ -1,0 +1,52 @@
+run_name: gpu_asset_run
+seed: 20260901
+
+# These are the only two competition-data inputs.  They are intentionally not
+# included in this repository and must be downloaded from the competition.
+question_zip: question.zip
+submission_example_zip: submission_example.zip
+output_root: outputs
+
+video:
+  frames_per_video: 24
+  selected_views: 6
+  max_edge: 1024
+  jpeg_quality: 95
+
+# `primitive` is deterministic and CPU-friendly: it proves format/physics
+# correctness. `hunyuan` is the high-fidelity GPU path used for an online run.
+reconstruction:
+  backend: hunyuan
+  hunyuan_repo: third_party/Hunyuan3D-2.1
+  hunyuan_model: tencent/Hunyuan3D-2.1
+  hunyuan_texture: true
+  # resident keeps Shape + Paint in a 48 GiB L20. Use sequential on a 24 GiB
+  # 24 GiB GPU: make all shapes, free Shape, then make all textures.
+  hunyuan_load_mode: resident
+  # The L20 profile retains the public model's high-quality Paint defaults.
+  # Smaller values are explicit compatibility overrides for lower-VRAM GPUs.
+  hunyuan_paint_max_views: 6
+  hunyuan_paint_resolution: 512
+  max_faces: 30000
+
+# `center` needs no model. `sam2` uses the pinned, public SAM2 checkout prepared
+# by scripts/bootstrap_models.py and selects the best centered automatic mask.
+segmentation:
+  backend: sam2
+  sam2_repo: third_party/sam2
+  sam2_model: facebook/sam2.1-hiera-large
+  min_area_fraction: 0.03
+  max_area_fraction: 0.90
+
+physics:
+  # convex_hull follows the reconstructed silhouette; bounding_box is a
+  # conservative compatibility fallback for a restrictive downstream engine.
+  collision_mode: convex_hull
+  default_mass_kg: 1.0
+  density_kg_m3: 700.0
+  friction: 0.8
+  simulation_steps: 120
+
+package:
+  archive_root: submission_example/submission
+  compression_level: 6

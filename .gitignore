@@ -1,0 +1,30 @@
+# Python
+.venv/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Secrets — never commit Tianchi STS / AK / SK / tokens
+.env
+.env.*
+*.sts
+secrets/
+
+# Editor / logs
+.cursor/
+Thumbs.db
+desktop.ini
+*.log
+
+# Official videos stay on the laptop. A 3GB HTTPS push was rejected by GitHub (HTTP 500).
+*.MOV
+*.MP4
+*.mp4
+
+# GitHub hard limit is 100MB. Re-download COLMAP: https://github.com/colmap/colmap/releases
+tools/colmap-x64-windows-cuda.zip
+tools/colmap/bin/onnxruntime_providers_cuda.dll
+tools/colmap/
+tools/openmvs/
+tools/*.7z

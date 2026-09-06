@@ -1,0 +1,32 @@
+{
+  "name": "01_features",
+  "elapsed_seconds": 16.285,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\colmap\\bin\\colmap.exe",
+    "feature_extractor",
+    "--database_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\database.db",
+    "--image_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\images",
+    "--image_list_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\image_list.txt",
+    "--ImageReader.single_camera",
+    "1",
+    "--ImageReader.camera_model",
+    "SIMPLE_RADIAL",
+    "--FeatureExtraction.type",
+    "SIFT",
+    "--FeatureExtraction.use_gpu",
+    "0",
+    "--FeatureExtraction.num_threads",
+    "8",
+    "--FeatureExtraction.max_image_size",
+    "960",
+    "--SiftExtraction.max_num_features",
+    "8192",
+    "--SiftExtraction.peak_threshold",
+    "0.006",
+    "--ImageReader.mask_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\masks"
+  ]
+}

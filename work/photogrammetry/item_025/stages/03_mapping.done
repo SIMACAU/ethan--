@@ -1,0 +1,20 @@
+{
+  "name": "03_mapping",
+  "elapsed_seconds": 65.452,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\colmap\\bin\\colmap.exe",
+    "mapper",
+    "--database_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\database.db",
+    "--image_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\images",
+    "--output_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_025\\sparse",
+    "--Mapper.min_num_matches",
+    "12",
+    "--Mapper.ba_use_gpu",
+    "0",
+    "--Mapper.num_threads",
+    "8"
+  ]
+}

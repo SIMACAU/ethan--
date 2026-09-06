@@ -1,0 +1,10 @@
+{
+  "name": "10_glb",
+  "elapsed_seconds": 4.392,
+  "command": [
+    "C:\\Program Files\\Blender Foundation\\Blender 5.2\\blender.exe",
+    "--background",
+    "--python",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_009\\convert_obj.py"
+  ]
+}

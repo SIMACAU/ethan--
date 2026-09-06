@@ -1,0 +1,234 @@
+{
+  "item_001": {
+    "status": "ok",
+    "source": "video_01_frame_0045.jpg",
+    "area": 595362,
+    "size": "1080x1124",
+    "bytes": 107756
+  },
+  "item_002": {
+    "status": "ok",
+    "source": "video_01_frame_0001.jpg",
+    "area": 287764,
+    "size": "740x599",
+    "bytes": 62732
+  },
+  "item_003": {
+    "status": "ok",
+    "source": "video_01_frame_0055.jpg",
+    "area": 353448,
+    "size": "1280x476",
+    "bytes": 62866
+  },
+  "item_004": {
+    "status": "ok",
+    "source": "video_01_frame_0053.jpg",
+    "area": 207476,
+    "size": "581x1041",
+    "bytes": 59570
+  },
+  "item_005": {
+    "status": "ok",
+    "source": "video_01_frame_0056.jpg",
+    "area": 654942,
+    "size": "1080x1741",
+    "bytes": 138488
+  },
+  "item_006": {
+    "status": "ok",
+    "source": "video_01_frame_0097.jpg",
+    "area": 344744,
+    "size": "938x663",
+    "bytes": 50247
+  },
+  "item_007": {
+    "status": "ok",
+    "source": "video_01_frame_0086.jpg",
+    "area": 292252,
+    "size": "972x717",
+    "bytes": 45860
+  },
+  "item_008": {
+    "status": "ok",
+    "source": "video_01_frame_0063.jpg",
+    "area": 278252,
+    "size": "792x598",
+    "bytes": 29255
+  },
+  "item_009": {
+    "status": "ok",
+    "source": "video_01_frame_0093.jpg",
+    "area": 265468,
+    "size": "848x634",
+    "bytes": 41000
+  },
+  "item_010": {
+    "status": "ok",
+    "source": "video_01_frame_0045.jpg",
+    "area": 265744,
+    "size": "1078x444",
+    "bytes": 33158
+  },
+  "item_011": {
+    "status": "ok",
+    "source": "video_01_frame_0069.jpg",
+    "area": 731124,
+    "size": "1080x1590",
+    "bytes": 133577
+  },
+  "item_012": {
+    "status": "ok",
+    "source": "video_01_frame_0001.jpg",
+    "area": 346568,
+    "size": "1278x544",
+    "bytes": 74277
+  },
+  "item_013": {
+    "status": "ok",
+    "source": "video_01_frame_0011.jpg",
+    "area": 459056,
+    "size": "1274x617",
+    "bytes": 78032
+  },
+  "item_014": {
+    "status": "ok",
+    "source": "video_01_frame_0070.jpg",
+    "area": 450152,
+    "size": "943x720",
+    "bytes": 94269
+  },
+  "item_015": {
+    "status": "ok",
+    "source": "video_01_frame_0016.jpg",
+    "area": 453328,
+    "size": "1158x667",
+    "bytes": 42579
+  },
+  "item_016": {
+    "status": "ok",
+    "source": "video_01_frame_0087.jpg",
+    "area": 565576,
+    "size": "1280x720",
+    "bytes": 52775
+  },
+  "item_017": {
+    "status": "ok",
+    "source": "video_01_frame_0057.jpg",
+    "area": 256400,
+    "size": "736x662",
+    "bytes": 30770
+  },
+  "item_018": {
+    "status": "ok",
+    "source": "video_01_frame_0066.jpg",
+    "area": 446548,
+    "size": "964x720",
+    "bytes": 37697
+  },
+  "item_019": {
+    "status": "ok",
+    "source": "video_01_frame_0083.jpg",
+    "area": 309916,
+    "size": "1060x613",
+    "bytes": 39516
+  },
+  "item_020": {
+    "status": "ok",
+    "source": "video_01_frame_0062.jpg",
+    "area": 378764,
+    "size": "1081x720",
+    "bytes": 60265
+  },
+  "item_021": {
+    "status": "ok",
+    "source": "video_01_frame_0006.jpg",
+    "area": 407476,
+    "size": "1054x632",
+    "bytes": 70097
+  },
+  "item_022": {
+    "status": "ok",
+    "source": "video_01_frame_0010.jpg",
+    "area": 408976,
+    "size": "1108x565",
+    "bytes": 82616
+  },
+  "item_023": {
+    "status": "ok",
+    "source": "video_01_frame_0007.jpg",
+    "area": 213816,
+    "size": "974x468",
+    "bytes": 36616
+  },
+  "item_024": {
+    "status": "ok",
+    "source": "video_01_frame_0083.jpg",
+    "area": 174608,
+    "size": "896x552",
+    "bytes": 42696
+  },
+  "item_025": {
+    "status": "ok",
+    "source": "video_01_frame_0002.jpg",
+    "area": 185308,
+    "size": "442x670",
+    "bytes": 66671
+  },
+  "item_026": {
+    "status": "ok",
+    "source": "video_01_frame_0064.jpg",
+    "area": 74316,
+    "size": "468x468",
+    "bytes": 26780
+  },
+  "item_027": {
+    "status": "ok",
+    "source": "video_02_frame_0001.jpg",
+    "area": 190932,
+    "size": "512x642",
+    "bytes": 64772
+  },
+  "item_028": {
+    "status": "ok",
+    "source": "video_01_frame_0077.jpg",
+    "area": 229116,
+    "size": "1095x470",
+    "bytes": 29921
+  },
+  "item_029": {
+    "status": "ok",
+    "source": "video_01_frame_0079.jpg",
+    "area": 249844,
+    "size": "1000x510",
+    "bytes": 48467
+  },
+  "item_030": {
+    "status": "ok",
+    "source": "video_01_frame_0074.jpg",
+    "area": 301848,
+    "size": "1016x602",
+    "bytes": 50231
+  },
+  "item_031": {
+    "status": "ok",
+    "source": "video_01_frame_0057.jpg",
+    "area": 202076,
+    "size": "905x663",
+    "bytes": 55909
+  },
+  "item_032": {
+    "status": "ok",
+    "source": "video_01_frame_0035.jpg",
+    "area": 344000,
+    "size": "1090x720",
+    "bytes": 66908
+  },
+  "item_033": {
+    "status": "skip",
+    "reason": "no_masks"
+  },
+  "item_034": {
+    "status": "skip",
+    "reason": "no_masks"
+  }
+}

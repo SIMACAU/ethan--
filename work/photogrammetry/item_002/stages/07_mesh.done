@@ -1,0 +1,19 @@
+{
+  "name": "07_mesh",
+  "elapsed_seconds": 20.324,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\openmvs\\ReconstructMesh.exe",
+    "--working-folder",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_002\\mvs",
+    "--input-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_002\\mvs\\scene_dense.mvs",
+    "--pointcloud-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_002\\mvs\\scene_dense.ply",
+    "--output-file",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_002\\mvs\\scene_mesh.mvs",
+    "--close-holes",
+    "30",
+    "--smooth",
+    "2"
+  ]
+}

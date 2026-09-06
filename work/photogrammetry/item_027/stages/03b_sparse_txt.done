@@ -1,0 +1,14 @@
+{
+  "name": "03b_sparse_txt",
+  "elapsed_seconds": 0.285,
+  "command": [
+    "C:\\Users\\MACAU\\Desktop\\天池\\tools\\colmap\\bin\\colmap.exe",
+    "model_converter",
+    "--input_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\sparse\\1",
+    "--output_path",
+    "C:\\Users\\MACAU\\Desktop\\天池\\work\\photogrammetry\\item_027\\sparse\\1",
+    "--output_type",
+    "TXT"
+  ]
+}

@@ -1,0 +1,14 @@
+# GPU runtime pins for the source pipeline.  bootstrap_models.py installs its
+# Python-3.10--3.12-compatible Hunyuan runtime subset after this base layer.
+# Install the CUDA wheel first with the index in README/Dockerfile.
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+hydra-core==1.3.2
+huggingface_hub==0.30.2
+einops==0.8.0
+diffusers==0.30.0
+transformers==4.46.0
+accelerate==1.1.1
+safetensors==0.4.4
+rembg==2.0.65
